@@ -1,6 +1,6 @@
 - 👋 Hi I’m Adnan, a 3rd year Electrical Engineering Student at the University of Alberta, specializing in nanoengineering.
 - 👀 I’ve worked at IBM, Trend Micro and numerous startups doing machine learning research.
-- 📫 Feel free to reach out to me through [email](adnanh.hoque@gmail.com)!
+- 📫 Feel free to reach out to me through [email](mailto:adnanh.hoque@gmail.com)!
 - :books: Keep up to date on my latest research [here](https://adnanhoque.github.io/) at my personal blog.
 
 <!---
